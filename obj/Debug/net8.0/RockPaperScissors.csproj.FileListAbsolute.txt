@@ -1,0 +1,14 @@
+C:\Users\Hp\Desktop\TELEGRAMPROBLEMS\RockPaperScissors\bin\Debug\net8.0\RockPaperScissors.exe
+C:\Users\Hp\Desktop\TELEGRAMPROBLEMS\RockPaperScissors\bin\Debug\net8.0\RockPaperScissors.deps.json
+C:\Users\Hp\Desktop\TELEGRAMPROBLEMS\RockPaperScissors\bin\Debug\net8.0\RockPaperScissors.runtimeconfig.json
+C:\Users\Hp\Desktop\TELEGRAMPROBLEMS\RockPaperScissors\bin\Debug\net8.0\RockPaperScissors.dll
+C:\Users\Hp\Desktop\TELEGRAMPROBLEMS\RockPaperScissors\bin\Debug\net8.0\RockPaperScissors.pdb
+C:\Users\Hp\Desktop\TELEGRAMPROBLEMS\RockPaperScissors\obj\Debug\net8.0\RockPaperScissors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\TELEGRAMPROBLEMS\RockPaperScissors\obj\Debug\net8.0\RockPaperScissors.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\TELEGRAMPROBLEMS\RockPaperScissors\obj\Debug\net8.0\RockPaperScissors.AssemblyInfo.cs
+C:\Users\Hp\Desktop\TELEGRAMPROBLEMS\RockPaperScissors\obj\Debug\net8.0\RockPaperScissors.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\TELEGRAMPROBLEMS\RockPaperScissors\obj\Debug\net8.0\RockPaperScissors.dll
+C:\Users\Hp\Desktop\TELEGRAMPROBLEMS\RockPaperScissors\obj\Debug\net8.0\refint\RockPaperScissors.dll
+C:\Users\Hp\Desktop\TELEGRAMPROBLEMS\RockPaperScissors\obj\Debug\net8.0\RockPaperScissors.pdb
+C:\Users\Hp\Desktop\TELEGRAMPROBLEMS\RockPaperScissors\obj\Debug\net8.0\RockPaperScissors.genruntimeconfig.cache
+C:\Users\Hp\Desktop\TELEGRAMPROBLEMS\RockPaperScissors\obj\Debug\net8.0\ref\RockPaperScissors.dll
